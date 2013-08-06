@@ -1,0 +1,5 @@
+gnome-shell-extension-taskbar (25-0~20130802) precise; urgency=low
+
+  * Initial release (Closes: #nnnn)
+
+ -- zpydr <zpydr@linuxwaves.com>  Thu, 01 Aug 2013 23:02:52 +0100
