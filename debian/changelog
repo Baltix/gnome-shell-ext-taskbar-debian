@@ -1,3 +1,14 @@
+gnome-shell-extension-taskbar (26-0~20130822) precise; urgency=low
+
+  * New upstream release 
+    - fixes bottom panel issue - panel doesn't cover windows now, see
+      https://github.com/zpydr/gnome-shell-extension-taskbar/issues/8 
+  * Moved schemas/org.gnome.shell.extensions.TaskBar.gschema.xml to 
+    correct location (/usr/lib/glib-2.0/schemas) to allow changing 
+    TaskBar extension settings system-wide (for all users)
+
+ -- Mantas Kriaučiūnas <mantas@akl.lt>  Wed, 22 Aug 2013 17:28:06 +0300
+
 gnome-shell-extension-taskbar (25-0~20130802) precise; urgency=low
 
   * Initial release (Closes: #nnnn)
