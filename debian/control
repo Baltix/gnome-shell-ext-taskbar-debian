@@ -1,7 +1,7 @@
 Source: gnome-shell-extension-taskbar
 Section: gnome
 Priority: extra
-Maintainer: zpydr <zpydr@linuxwaves.com>
+Maintainer: zpydr <zpydr@openmailbox.org>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
 Homepage: https://extensions.gnome.org/extension/584/taskbar/
@@ -11,7 +11,7 @@ Homepage: https://extensions.gnome.org/extension/584/taskbar/
 Package: gnome-shell-extension-taskbar
 Architecture: all
 Depends: gnome-shell (>= 3.4)
-Description: GNOME Shell Extension TaskBar for GNOME 3.4/3.6/3.8 - a dock-like windows list on the top/bottom bar
+Description: GNOME Shell Extension TaskBar for GNOME 3.4-3.16 - a dock-like windows list on the top/bottom bar
  TaskBar displays icons of running applications on the GNOME Shell top panel or 
  alternatively on a new bottom panel.
  Activate, minimize or close tasks with a simple click. 
@@ -20,4 +20,3 @@ Description: GNOME Shell Extension TaskBar for GNOME 3.4/3.6/3.8 - a dock-like w
  TO COMPLETE THE INSTALLATION:
  Restart GNOME Shell (Alt-F2 + r).
  Activate TaskBar in GNOME Tweak Tool (Advanced Settings).
- GNOME Shell Extension TaskBar works with GNOME 3.4 / 3.6 / 3.8 releases.
