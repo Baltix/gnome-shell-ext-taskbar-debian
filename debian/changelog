@@ -1,3 +1,23 @@
+gnome-shell-extension-taskbar (52.0-3) unstable; urgency=medium
+
+  * Added versions 3.22-3.25 to compatible versions.
+  * Set dependency relationship for gnome-shell versions (Closes: #836224)
+
+ -- Mantas Kriaučiūnas <mantas@akl.lt>  Fri, 28 Oct 2016 11:37:55 +0200
+
+gnome-shell-extension-taskbar (52.0-2) unstable; urgency=medium
+
+  * Added different copyright holders to copyright file.
+  * Do not install additional license file.
+
+ -- Michael Meskes <meskes@debian.org>  Sun, 28 Aug 2016 13:34:22 +0200
+
+gnome-shell-extension-taskbar (52.0-1) unstable; urgency=medium
+
+  * Initial release 
+
+ -- Michael Meskes <meskes@debian.org>  Fri, 26 Aug 2016 10:54:13 +0200
+
 gnome-shell-extension-taskbar (26-0~20130822) precise; urgency=low
 
   * New upstream release 
